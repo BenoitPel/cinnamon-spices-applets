@@ -1,0 +1,36 @@
+#: applet.js:34
+msgid "Take A Screen Shot"
+msgstr "Prendre une capture d'écran"
+
+#. ScreenShot@tech71->metadata.json->name
+#: applet.js:45
+msgid "ScreenShot"
+msgstr "Capture l'écran"
+
+#: applet.js:50
+msgid "Whole Screen"
+msgstr "Tout l'écran"
+
+#: applet.js:52
+msgid "1 Second Delay"
+msgstr "1 Seconde d'attente"
+
+#: applet.js:56
+msgid "3 Second Delay"
+msgstr "3 Secondes d'attente"
+
+#: applet.js:60
+msgid "5 Second Delay"
+msgstr "5 Secondes d'attente"
+
+#: applet.js:69
+msgid "Current Window"
+msgstr "Fenêtre en cours"
+
+#: applet.js:74
+msgid "Selected Area"
+msgstr "Zone sélectionnée"
+
+#. ScreenShot@tech71->metadata.json->description
+msgid "Take a snapshot of your desktop or individual windows"
+msgstr "Caputrer un instantané du bureau ou d'une fenêtre individuelle"
